@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: wo-o29
-          GIST_ID: 6b55830e2605f618f9cebc2027f6397d
+          GIST_ID: d1dc20f73edffff6d10e80f62b803933
